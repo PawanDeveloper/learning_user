@@ -3,7 +3,7 @@ asgiref==3.2.3
 astor==0.8.0
 astroid==2.2.5
 Click==7.0
-Django==2.2.9
+Django==2.2.13
 Flask==1.1.1
 Flask-SocketIO==4.2.1
 gast==0.2.2
