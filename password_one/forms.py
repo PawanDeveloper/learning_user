@@ -15,3 +15,4 @@ class UserProfileInfoForm(forms.ModelForm):
 		model = UserProfileInfo
 		fields = ('portfolio_site','profile')
 
+## Added new comment
